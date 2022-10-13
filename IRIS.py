@@ -82,5 +82,3 @@ plt.show()
 
 plt.plot(sepal_length, sepal_width, color = 'r')
 plt.show()
-
-W
